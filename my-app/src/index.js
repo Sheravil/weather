@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 
 import "./index.css";
-import "./css/Cloud.css";
+import "./css/Clouds.css";
 import "./css/Mist.css";
 import "./css/Rain.css";
 import "./css/Snow.css";
